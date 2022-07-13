@@ -35,7 +35,7 @@
  ```diff
 @@ Wanna know more about me? Just visit Drunken Wizards Website below @@
 ```
- <div align = center> <a href="https://apebodima.com.com/">Drunken Wizards</a></div>
+ <div align = center> <a href="https://apebodima.com">Drunken Wizards</a></div>
 
  
  <h1 align = center></h1>
