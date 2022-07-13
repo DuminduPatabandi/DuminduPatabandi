@@ -1,20 +1,29 @@
 
 
+<h1 align = center> DUMINDU PATABANDI</h1>
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/L7ABlU8c4meo1kDtd7/giphy.gif" width="300"/>
-</div>
-
-
-
-
-<div id="badges"  align="center">
-  <a href="https://www.linkedin.com/in/dumindu-patabandi-845492157?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BvRJijb2eT72a1TKbQbj%2FsQ%3D%3D"   target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /></a>
+ <div align = center> 
+  📫 Connect with me me
+  <p>   </p>
   
-  <a href="https://www.youtube.com/channel/UCS_AVNR3xyNojBchCspJNbQ" target="_blank"><img align="center" src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge" /></a>
+[<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/DuminduPataban3)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/dumindu-patabandi-845492157/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/dumindu.patabandi.7)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/dbros_vmaker/)  &nbsp; <a href="mailto:startwithback@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+  
+ </div>
 
-  <img herf = "https://www.youtube.com/channel/UCS_AVNR3xyNojBchCspJNbQ" src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-</div>
+<h1 align = center></h1>
+
+<img src="https://raw.githubusercontent.com/M0nica/M0nica/master/gh-header-image-cropped.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
+I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL. In 2020, I was selected to be an inaugural <a href="https://stars.github.com/">GitHub Star 🌟</a> based on my involvement in the tech community.  My interest in the React ecosystem led me to launch <a href="https://www.reactrobins.com/">React Robins</a>, a community for women and non-binary ReactJS developers.
+
+
+## Find me around the web 🌎: <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
+- Learning in public on <a href="https://www.twitch.tv/blacktechdiva">Twitch</a> or <a href="https://www.monica.dev">monica.dev</a> 📹 ✍🏾
+- Tinkering with interactions on <a href="https://codepen.io/m0nica"> Codepen</a> 🏓
+- Sharing updates on <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a> 💼
+
+
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
 
 
 
