@@ -23,7 +23,15 @@
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
 
-- 💼 𝙵𝚘𝚞𝚗𝚍𝚎𝚛 𝚘𝚏 [<img src="https://github.com/DuminduPatabandi/Drunken-Wizard-Phase-2/blob/37dda9e2f881bea35fdfd0f15dd26b4c9b71d207/images/drunkenwizard-light.svg" height="30em" align="center" alt="EdgePrim" title="EdgePrim"/>](https://edgeprim.com)
+- 💼 𝙵𝚘𝚞𝚗𝚍𝚎𝚛 𝚘𝚏 [<img src="https://github.com/DuminduPatabandi/Drunken-Wizard-Phase-2/blob/37dda9e2f881bea35fdfd0f15dd26b4c9b71d207/images/drunkenwizard-light.svg" height="30em" align="center" alt="Drunken Wizards" title="Drunken Wizards"/>](https://apebodima.com)
+ 
+- 3D Artist
+ 
+ ```diff
+- This is a red colored line
++ This is a green colored line
+@@ This is a purple colored line @@
+```
  
  <div> 
  I'm a designer who is passionate about making contributing ...... <a href="https://stars.github.com/">GitHub Star</a> 
@@ -37,8 +45,6 @@
 - Sharing updates on <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a> 💼
 
 
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
 
 
 
