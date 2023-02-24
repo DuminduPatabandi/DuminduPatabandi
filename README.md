@@ -21,7 +21,7 @@ Feel free to reach me with these. 𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚢 S𝚘𝚌�
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
 
-- 💼 𝙵𝚘𝚞𝚗𝚍𝚎𝚛 𝚘𝚏 [<img src="https://github.com/DuminduPatabandi/Drunken-Wizard-Phase-2/blob/37dda9e2f881bea35fdfd0f15dd26b4c9b71d207/images/drunkenwizard-light.svg" height="30em" align="center" alt="Drunken Wizards" title="Drunken Wizards"/>](https://apebodima.com)
+- 💼 𝙵𝚘𝚞𝚗𝚍𝚎𝚛 𝚘𝚏 [<img src="https://github.com/DuminduPatabandi/Drunken-Wizard-Phase-2/blob/37dda9e2f881bea35fdfd0f15dd26b4c9b71d207/images/drunkenwizard-light.svg" height="30em" align="center" alt="Drunken Wizards" title="Drunken Wizards"/>](https://drunked.netlify.app)
  
 - 🎨 3D Artist
  
@@ -33,7 +33,7 @@ Feel free to reach me with these. 𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚢 S𝚘𝚌�
  ```diff
 @@ Wanna know more about me? Just visit Drunken Wizards Website below @@
 ```
- <div align = center> <a href="https://apebodima.com">Drunken Wizards</a></div>
+ <div align = center> <a href="https://drunked.netlify.app">Drunken Wizards</a></div>
 
  
  <h1 align = center></h1>
